@@ -24,7 +24,7 @@ const HeroContent = () => {
         >
           <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
           <h1 className="Welcome-text text-[13px]">
-            Fullstack Developer Portfolio
+            Software Developer Portfolio
           </h1>
         </motion.div>
 
@@ -44,23 +44,35 @@ const HeroContent = () => {
 
         <motion.p
           variants={slideInFromLeft(0.8)}
-          className="text-lg text-gray-400 my-5 max-w-[600px]"
+          className="text-lg text-gray-400 my-5 max-w-[800px]"
         >
-          I&apos;m a Full Stack Software Engineer with experience in Website,
-          Mobile, and Software development. Check out my projects and skills.
+          I&apos;m a Software Engineer with experience in Website
+           and Software development.As a Python Developer at Brave AI Lab, I played a pivotal role in enhancing robotic capabilities through the implementation of advanced Python algorithms.
+          One of my notable accomplishments was the development of Python algorithms for a robot, contributing to a significant increase in quality and precision. Through careful analysis and strategic implementation, I optimized the algorithms to improve accuracy, resulting in enhanced overall performance
+          Furthermore, I actively contributed to the development and improvement of the company's operational efficiency by developing a Customer Relationship Management (CRM) system.
+          In addition to my professional experiences, I have successfully executed various independent projects. Check out my projects and skills.
+           
         </motion.p>
+
+
+
         <motion.a
           variants={slideInFromLeft(1)}
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
-        >
+          href="https://drive.google.com/drive/folders/1MhplVb6BAzkYwlKbBZud63bee77K-mRS?usp=sharing"  // Replace with your desired URL
+          target="_blank"
+          rel="noopener noreferrer"
+          >
           Learn More!
         </motion.a>
+
       </div>
 
       <motion.div
         variants={slideInFromRight(0.8)}
         className="w-full h-full flex justify-center items-center"
       >
+        
         <Image
           src="/mainIconsdark.svg"
           alt="work icons"
