@@ -51,7 +51,7 @@ const Skills = () => {
             index={index}
           />
         ))}
-      </div>
+      {/* </div>
       <div className="flex flex-row justify-around flex-wrap mt-4 gap-5 items-center">
         {Full_stack.map((image, index) => (
           <SkillDataProvider
@@ -72,7 +72,7 @@ const Skills = () => {
             height={image.height}
             index={index}
           />
-        ))}
+        ))} */}
       </div>
 
       <div className="w-full h-full absolute">
