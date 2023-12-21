@@ -49,7 +49,7 @@ const HeroContent = () => {
           I&apos;m a Software Engineer with experience in Website
            and Software development.As a Python Developer at Brave AI Lab, I played a pivotal role in enhancing robotic capabilities through the implementation of advanced Python algorithms.
           One of my notable accomplishments was the development of Python algorithms for a robot, contributing to a significant increase in quality and precision. Through careful analysis and strategic implementation, I optimized the algorithms to improve accuracy, resulting in enhanced overall performance
-          Furthermore, I actively contributed to the development and improvement of the company's operational efficiency by developing a Customer Relationship Management CRM system.
+          Furthermore, I actively contributed to the development and improvement of the company&apos;s operational efficiency by developing a Customer Relationship Management CRM system.
           In addition to my professional experiences, I have successfully executed various independent projects. Check out my projects and skills.
            
         </motion.p>
